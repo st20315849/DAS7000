@@ -7,7 +7,7 @@ This project provides an end-to-end data science solution for monitoring and pre
 Air pollution is a significant health hazard in urban India. This project aims to:
 
 1. Consolidate air quality data from 26 cities (2015–2020).
-2. Analyze the impact of various pollutants like PM2.5, PM10, and NO2.
+2. Analyze the effect of various pollutants like PM2.5, PM10, and NO2.
 3. Predict AQI levels using a trained Random Forest Regressor.
 4. Deploy an interactive dashboard for public use.
 
